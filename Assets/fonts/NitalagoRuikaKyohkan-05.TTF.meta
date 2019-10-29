@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 291d289aa8294f247ab8dd9170f6c0ac
+timeCreated: 1493631875
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: NitalagoRuikaKyohkan-05
+  fontNames:
+  - NitalagoRuikaKyohkan-05
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
